@@ -37,7 +37,7 @@ namespace generic_solution
 
         static void Main(string[] args)
         {
-
+            //Generic solution
             DataSample<String> dss = new DataSample<string>("Forty-two");
             DataSample<int> dsi = new DataSample<int>(42);
 
